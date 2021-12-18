@@ -1,3 +1,3 @@
 ### I'm Christina✨
-#### I am a Node.JS developer with experience in Python. I have an Associates in Cybersecurity and will be graduating with a Bachelors of Applied Science in Business Management with a Project Management concentration this December.
-##### I am currently working on improving my SQL skills to better integrate databases into my projects. I am very interested in open-source software and am open to collaboration!
+#### I am a UX designer and web developer that specializes in creating exciting web experiences and creating web-based security content. I have an Associates of Science in Cybersecurity and a Bachelors of Applied Science in Business Management, Project Management.
+##### I am very interested in open-source software and am open to collaboration!
